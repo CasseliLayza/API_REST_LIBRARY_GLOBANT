@@ -1,4 +1,4 @@
-![logo](src/main/resources/asset/img/top.png)
+![logo](src/main/resources/assets/img/top.png)
 # 📚 Biblioteca - Spring Boot
 
 ## 📝 Descripción
